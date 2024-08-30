@@ -1,8 +1,8 @@
-Flask==2.3.2
-pandas==2.0.3
-folium==0.14.0
-geopy==2.3.0
-scikit-learn==1.2.2
-haversine==2.8.0
-numpy==1.25.0
-Flask-Cors==4.0.0
+Flask==3.0.3
+pandas==2.2.2
+folium==0.17.0
+geopy==2.4.1
+scikit-learn==1.5.1
+haversine==2.8.1
+numpy==2.0.2
+Flask-Cors==4.0.1
